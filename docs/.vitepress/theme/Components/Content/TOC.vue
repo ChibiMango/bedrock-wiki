@@ -163,7 +163,7 @@ const getHeaders = function () {
 					}
 					lastHeader.children.push(lastSubHeader)
 				}
-				lastSubHeader.children.push(header)
+				//lastSubHeader.children.push(header)
 			}
 		}
 	}
