@@ -58,13 +58,13 @@ show_toc: false
 'RP/entity/example.ce.json',
 
 'RP/fogs/example_fog_setting.json',
+                    
+'RP/items/example.item.json',
 
 'RP/models/entity/example.geo.json',
 'RP/models/blocks/example.geo.json',
 
 'RP/particles/example.particle.json',
-
-'RP/items/example.item.json',
 
 'RP/render_controllers/example.rc.json',
 
